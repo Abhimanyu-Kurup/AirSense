@@ -3,26 +3,23 @@
 AirSense is a web application designed to predict the Air Quality Index (AQI) using machine learning models trained on various air quality datasets. The application provides users with real-time AQI classifications, helping them make informed decisions about their outdoor activities based on air quality conditions.
 
 **Features**
+
 Real-Time Predictions: Access current AQI levels based on location.
-
 Data Visualization: Graphical representation of historical air quality data.
-
 User-Friendly Interface: Easy navigation and interaction for all users.
-
 Responsive Design: Optimized for both desktop and mobile devices.
 
-Technologies Used
+
+**Technologies Used**
 
 Backend: PHP, Python
-
 Frontend: HTML, CSS, JavaScript
-
 Database: MySQL
-
 Machine Learning: Scikit-learn, Pandas
 
 
 **Getting Started**
+
 To run the AirSense application locally, follow these steps:
 
 Clone the Repository
